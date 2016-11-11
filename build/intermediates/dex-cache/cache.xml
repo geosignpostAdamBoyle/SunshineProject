@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_9daad61114a65a3779074b0fa8c1d2da6b4663e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_f5f1c82eb49d35f76ebd078b673648ac3e4ff35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_8935cb7dfb625cc86b6f8a4d25a1badeb13b6ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_09f28e7a90eeb91af03f90a20f21f48754848a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_e66c77c4ea0814cbfa3b494aea79ae7e394ab2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_874c90263c18737f238ccbcf6d89dcd09a018f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_0a187a9e8154b8dbf5426c96c004dbfd2003e7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_8935cb7dfb625cc86b6f8a4d25a1badeb13b6ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_07b96b28320c51823e4dbf70e3996c756c43f9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_e66c77c4ea0814cbfa3b494aea79ae7e394ab2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4856391e36dc88bf7851e39d465f07889baccdcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_09f28e7a90eeb91af03f90a20f21f48754848a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_add62103d64028f4fa33cef02c58ea1fa629d5bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_add62103d64028f4fa33cef02c58ea1fa629d5bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_d87bc88b2bbd25b25bc2697f96b023c73365375b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_d87bc88b2bbd25b25bc2697f96b023c73365375b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6f4f0ad571a58162fe3664da63ee6e1a69fe86e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4856391e36dc88bf7851e39d465f07889baccdcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_874c90263c18737f238ccbcf6d89dcd09a018f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_0a187a9e8154b8dbf5426c96c004dbfd2003e7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_07b96b28320c51823e4dbf70e3996c756c43f9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_484a7e619e847b55c955ec081b424ef365d4e800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d6f2f9577d3630e6098bf8cacb9e00af3ecfa9f">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dc9a0d29839b4b2f1e06896f041a7db40777f886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1d06abc4eece6717793038a8e596fafc50e08369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b7f2c2fc2558b7e69a8ca2b0ca675d17dcf48359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_9daad61114a65a3779074b0fa8c1d2da6b4663e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6f4f0ad571a58162fe3664da63ee6e1a69fe86e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_484a7e619e847b55c955ec081b424ef365d4e800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e9c50420827c46ec61f002a7e2247322ba748f0">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/instant-run_0898d64182e10851a0bb29789304fda5f42baaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_f5f1c82eb49d35f76ebd078b673648ac3e4ff35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1d06abc4eece6717793038a8e596fafc50e08369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b7f2c2fc2558b7e69a8ca2b0ca675d17dcf48359.jar" />
+    </item>
+
+</items>
