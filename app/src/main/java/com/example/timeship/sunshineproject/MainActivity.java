@@ -3,17 +3,20 @@ package com.example.timeship.sunshineproject;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 
-public class MainActivity extends AppCompatActivity implements BlankFragment.OnFragmentInteractionListener {
-BlankFragment blankFragment;
+public class MainActivity extends AppCompatActivity implements ForecastFragment.OnFragmentInteractionListener {
+ForecastFragment forecastFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        blankFragment = BlankFragment.newInstance("hello", "world");
+        forecastFragment = ForecastFragment.newInstance("hello", "world");
         getSupportFragmentManager().beginTransaction()
-                .add(R.id.activity_main, blankFragment).commit();
+                .add(R.id.activity_main, forecastFragment).commit();
 
 
     }

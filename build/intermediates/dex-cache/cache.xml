@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4d6f2f9577d3630e6098bf8cacb9e00af3ecfa9f">
+        sha1="6c269fe7f678e0b81031da6ed693ee9cb6444e3f">
         <dex dex="/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dc9a0d29839b4b2f1e06896f041a7db40777f886.jar" />
     </item>
     <item

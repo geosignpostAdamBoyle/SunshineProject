@@ -4,6 +4,10 @@
         "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/src/main/res/layout/list_item_forecast.xml"
     },
     {
+        "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/fragment_forecast.xml",
+        "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/src/main/res/layout/fragment_forecast.xml"
+    },
+    {
         "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple.xml"
     },
@@ -72,12 +76,12 @@
         "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
-    },
-    {
         "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -102,6 +106,10 @@
     {
         "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/src/main/res/layout/activity_detail.xml"
     },
     {
         "merged": "/home/timeship/Udacity/UdacityProjects/SunshineProject/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
